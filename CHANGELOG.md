@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.2 - 2025-11-08]
+
+### Fixed
+
+- Correct a bug with the option which removes security spikes that was interfering with the purchase of other items from stores.
+
 ## [1.2.1 - 2025-09-22
 
 ### Changed
@@ -10,13 +16,13 @@
 
 ## [1.2.0] - 2019-05-11
 
-### Changed
+### Fixed
 
 - Adjust the option which makes security spikes usable to prevent security spikes from opening doors the player isn't meant to be able to open. Thanks to ebmar for spotting one on Manaan.
 
 ## [1.1.0] - 2019-03-07
 
-### Changed
+### Fixed
 
 - Include missing spells.2da file required for TSLPatcher for the option which makes security spikes usable.
 

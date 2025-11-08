@@ -3,7 +3,7 @@
 |||
 | -------- | ---------------------------------------|
 | Title:   | JC's Security Spikes for K1            |
-| Version: | 1.2.1                                  |
+| Version: | 1.2.2                                  |
 | Game:    | Star Wars: Knights of the Old Republic |
 | Author:  | JCarter426                             |
 
